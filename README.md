@@ -45,10 +45,7 @@
 
 ### Mis Estadísticas de GitHub 📊
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DansHZLabs&theme=dark" alt="GitHub Streak Stats" />
-</p>
-
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=DansHZLabs&show_icons=true&theme=github_dark&count_private=true"/>
 
 ## Contacto 📩
 
