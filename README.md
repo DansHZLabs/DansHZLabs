@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1927d2b6-b5f8-47a5-a0cd-8ff2ea0192d4" />## Hola, soy Daniel 👋
+## Hola, soy Daniel 👋
 
 
 - 💻 Desarrollador Back-End Java en continua formación.
