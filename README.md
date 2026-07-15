@@ -45,7 +45,9 @@
 
 ### Mis Estadísticas de GitHub 📊
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=DansHZLabs&show_icons=true&theme=github_dark&count_private=true"/>
+<p align="center">
+  <img src="./assets/github/metrics.svg" alt="GitHub Metrics"/>
+</p>
 
 ## Contacto 📩
 
