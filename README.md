@@ -42,6 +42,16 @@
 
 <img width="1878" height="1084" alt="certificado 2" src="https://github.com/user-attachments/assets/03dbd0aa-40b3-4a38-b5da-a6f4614040fd" />
 
+### Mis Estadísticas de GitHub 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DansHZLabs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Daniel" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DansHZLabs&layout=compact&theme=dark" alt="Lenguajes más usados" />
+</p>
+
 ## Contacto 📩
 
 * ✉️ [Correo electrónico](danielhbas@gmail.com)
