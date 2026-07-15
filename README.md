@@ -38,9 +38,9 @@
 
 ## Certificaciones 🥇
 
-<img width="1878" height="1084" alt="certificado 1" src="https://github.com/user-attachments/assets/ffdaaef8-7510-4075-86e0-bfa40c26f50b" />
+<img width="1083" height="603" alt="4" src="https://github.com/user-attachments/assets/e5e466e0-36f4-4f1f-8179-ce6b1de41376" />
 
-<img width="1878" height="1084" alt="certificado 2" src="https://github.com/user-attachments/assets/03dbd0aa-40b3-4a38-b5da-a6f4614040fd" />
+<img width="1097" height="607" alt="5" src="https://github.com/user-attachments/assets/5368fd3f-5a0c-465d-be6f-c868a48fc239" />
 
 
 ### Mis Estadísticas de GitHub 📊
