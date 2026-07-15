@@ -42,13 +42,11 @@
 
 <img width="1878" height="1084" alt="certificado 2" src="https://github.com/user-attachments/assets/03dbd0aa-40b3-4a38-b5da-a6f4614040fd" />
 
+
 ### Mis Estadísticas de GitHub 📊
 
-## 📊 Estadísticas GitHub
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DansHZLabs&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DansHZLabs&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=DansHZLabs&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
 
