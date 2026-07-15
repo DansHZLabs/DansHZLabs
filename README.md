@@ -44,13 +44,13 @@
 
 ### Mis Estadísticas de GitHub 📊
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=DansHZLabs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Daniel" />
-</p>
+## 📊 Estadísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=DansHZLabs&layout=compact&theme=dark" alt="Lenguajes más usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DansHZLabs&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DansHZLabs&theme=github_dark" />
 </p>
+
 
 ## Contacto 📩
 
