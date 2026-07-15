@@ -45,11 +45,11 @@
 ### Mis Estadísticas de GitHub 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DansHZLabs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Daniel" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=DansHZLabs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Daniel" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DansHZLabs&layout=compact&theme=dark" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=DansHZLabs&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </p>
 
 ## Contacto 📩
