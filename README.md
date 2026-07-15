@@ -27,11 +27,24 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-### 💭 En aprendizaje 
+### En aprendizaje 💭 
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+
+## Certificaciones 🥇
+
+<img width="1878" height="1084" alt="certificado 1" src="https://github.com/user-attachments/assets/ffdaaef8-7510-4075-86e0-bfa40c26f50b" />
+
+<img width="1878" height="1084" alt="certificado 2" src="https://github.com/user-attachments/assets/03dbd0aa-40b3-4a38-b5da-a6f4614040fd" />
+
+## Contacto 📩
+
+* ✉️ [Correo electrónico](danielhbas@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/daniel-herraiz-bastida-009497133/)
+* 🌐 [Portfolio]()
 
